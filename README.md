@@ -9,12 +9,45 @@
 
 ## 🚀 Technical Skills
 
-**Languages:** Python, SQL, C++  
-**Databases:** MySQL, MongoDB  
-**Data Engineering:** Data Modeling, 3NF Schema Design, ETL Basics  
-**Data Analysis:** Pandas, NumPy, Data Cleaning, Exploratory Data Analysis  
-**Tools:** Git, GitHub, VS Code, Jupyter Notebook, Excel  
-**Core CS:** Data Structures, OOP  
+### 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### 📊 Data Science & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" />
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi" />
+</p>
+
+### 🧰 Tools & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+### 📡 Data Engineering Concepts
+
+* Data Modeling
+* 3NF Schema Design
+* ETL Basics
+* Exploratory Data Analysis (EDA)
+* Data Cleaning
+* Data Visualization
+
 
 ---
 
