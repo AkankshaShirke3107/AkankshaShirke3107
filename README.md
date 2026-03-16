@@ -68,6 +68,17 @@
 
 ---
 
+## 🌱 Currently Working On
+
+📈 **Stock Price Prediction using Machine Learning & LSTM**
+
+- Building a deep learning model to predict stock price trends
+- Using **LSTM (Long Short-Term Memory)** networks for time-series forecasting
+- Performing **data preprocessing, feature engineering, and model evaluation**
+- Implementing the project using **Python, Pandas, NumPy, TensorFlow/Keras**
+
+---
+
 ## 📫 Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/akanksha-shirke  
