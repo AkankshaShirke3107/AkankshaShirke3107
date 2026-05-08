@@ -1,119 +1,220 @@
-# Hi 👋 I'm Akanksha Shirke
+<div align="center">
 
-🎓 Computer Engineering Student at SPPU  
-📊 Aspiring Data Engineer  
-🏆 IEEE Conference Presenter – AIC 2025  
-💡 Passionate about building scalable data systems and real-world analytics solutions  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=220&section=header&text=Akanksha%20Shirke&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20•%20Full%20Stack%20Developer%20•%20Researcher&descAlignY=55" />
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=C084FC&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Applications;Full+Stack+Developer+%7C+FastAPI+%7C+React;Exploring+RAG+Systems+%26+Scalable+Architecture;Turning+Ideas+Into+Real-World+Products;AI+%7C+Cloud+%7C+Research+%7C+Innovation)](https://git.io/typing-svg)
 
-## 🚀 Technical Skills
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 
-### 👨‍💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### 📊 Data Science & Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" />
-</p>
-
-### ⚙️ Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi" />
-</p>
-
-### 🧰 Tools & Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-### 📡 Data Engineering Concepts
-
-* Data Modeling
-* 3NF Schema Design
-* ETL Basics
-* Exploratory Data Analysis (EDA)
-* Data Cleaning
-* Data Visualization
-
+</div>
 
 ---
 
-## 📂 Featured Projects
+# 💫 About Me
 
-### 🚦 Smart Traffic Light Control System (IEEE Research)
-- Developed a traffic control system using ultrasonic sensors and Python  
-- Optimized traffic signal timing based on vehicle density  
-- Reduced vehicle waiting time by **30–40%**  
-- Presented research at **IEEE AIC 2025**
+<img align="right" height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-### 🏙 Civic Issue Reporting & Resolution Platform
-- Built a SQL-based complaint tracking system  
-- Designed normalized **3NF database schema**  
-- Implemented reporting queries for analytics  
-- Improved issue lookup efficiency by **60–70%**
+🎓 Final Year Computer Engineering Student  
+🤖 Passionate about AI/ML & Intelligent Systems  
+⚡ Building scalable Full Stack Applications  
+📚 IEEE Research Publication Author  
+🚀 Exploring RAG, Cloud & AI Product Engineering  
+💡 Interested in solving real-world problems using technology  
 
-### 🏫 ERP Attendance Management System
-- Automated attendance tracking system  
-- Built structured database for attendance records  
-- Processed and analyzed data using **Python + SQL**
-
-### 🎬 Movie Ticket Booking System
-- Designed a **normalized relational database schema (3NF)**  
-- Implemented optimized SQL queries for booking and seat allocation  
-- Used indexing and joins for efficient transaction retrieval
+<br><br>
 
 ---
 
-## 🔬 Research Work
+# 🚀 Current Focus
 
-**Explainable AI (XAI) – Ongoing**
+<div align="center">
 
-- Built machine learning models for **student performance prediction**
-- Applied **SHAP and LIME** to explain model decisions
-- Identified key factors influencing academic outcomes
+<table>
+<tr>
+<td align="center" width="220">
+
+### 🤖 AI Systems
+RAG Architectures  
+LLMs  
+Vector Databases
+
+</td>
+
+<td align="center" width="220">
+
+### 🌐 Full Stack
+React  
+FastAPI  
+PostgreSQL
+
+</td>
+
+<td align="center" width="220">
+
+### ☁️ Cloud
+AWS  
+Deployment  
+Scalable Systems
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+# 🛠 Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkankshaShirke3107&show_icons=true&theme=default)
+<div align="center">
 
----
+### Languages
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript" />
 
-## 🌱 Currently Learning
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
 
-- Data Engineering Pipelines  
-- Scalable Data Systems  
-- Machine Learning & AI  
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 
----
+### Database & Cloud
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,aws,firebase" />
 
-## 🌱 Currently Working On
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma" />
 
-📈 **Stock Price Prediction using Machine Learning & LSTM**
-
-- Building a deep learning model to predict stock price trends
-- Using **LSTM (Long Short-Term Memory)** networks for time-series forecasting
-- Performing **data preprocessing, feature engineering, and model evaluation**
-- Implementing the project using **Python, Pandas, NumPy, TensorFlow/Keras**
+</div>
 
 ---
 
-## 📫 Connect With Me
+# 🌟 Featured Projects
 
-LinkedIn: https://www.linkedin.com/in/akanksha-shirke  
-GitHub: https://github.com/AkankshaShirke3107  
-Email: akankshashirke3107@gmail.com
+<div align="center">
+
+<table>
+<tr>
+<td width="400">
+
+## ⚖️ NyaayPath-AI
+
+AI-powered legal assistance platform using RAG architecture, FastAPI & PostgreSQL.
+
+✨ Semantic Search  
+✨ AI Legal Assistance  
+✨ Vector Embeddings  
+✨ FastAPI + React  
+
+</td>
+
+<td width="400">
+
+## 🚦 Smart Traffic System
+
+Intelligent traffic control system using ultrasonic sensors & vehicle density analysis.
+
+✨ Smart Signal Control  
+✨ IEEE Research Paper  
+✨ Density Detection  
+✨ Real-time Processing  
+
+</td>
+</tr>
+
+<tr>
+<td width="400">
+
+## 🥗 DrishtiPoshan
+
+AI-enabled nutrition and healthcare platform focused on smart dietary analysis.
+
+✨ Health Analytics  
+✨ AI Recommendations  
+✨ User-centric Design  
+
+</td>
+
+<td width="400">
+
+## ☁️ More Coming Soon...
+
+Currently building advanced AI-powered systems & scalable applications.
+
+🚀 Stay tuned!
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" />
+
+</div>
+
+---
+
+# 📈 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ “Building technology that creates real-world impact.”
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E100FF,100:7F00FF&height=120&section=footer"/>
+
+</div>
