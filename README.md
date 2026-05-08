@@ -4,7 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=C084FC&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Applications;Full+Stack+Developer+%7C+FastAPI+%7C+React;Exploring+RAG+Systems+%26+Scalable+Architecture;Turning+Ideas+Into+Real-World+Products;AI+%7C+Cloud+%7C+Research+%7C+Innovation)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 
 </div>
 
