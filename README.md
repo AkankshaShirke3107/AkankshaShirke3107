@@ -93,53 +93,87 @@ Scalable Systems
 
 <table>
 <tr>
-<td width="400">
+<td width="420">
 
 ## ⚖️ NyaayPath-AI
 
-AI-powered legal assistance platform using RAG architecture, FastAPI & PostgreSQL.
+AI-powered legal assistance platform using RAG architecture, FastAPI, PostgreSQL & vector embeddings.
 
-✨ Semantic Search  
-✨ AI Legal Assistance  
-✨ Vector Embeddings  
-✨ FastAPI + React  
+✨ Semantic Legal Search  
+✨ AI-powered Query Assistance  
+✨ pgvector Integration  
+✨ FastAPI + React Architecture  
+✨ Intelligent Legal Retrieval System  
 
 </td>
 
-<td width="400">
+<td width="420">
 
-## 🚦 Smart Traffic System
+## 🚦 Smart Traffic Light Control System
 
-Intelligent traffic control system using ultrasonic sensors & vehicle density analysis.
+Research-based intelligent traffic management system using ultrasonic sensors for vehicle density analysis.
 
-✨ Smart Signal Control  
-✨ IEEE Research Paper  
-✨ Density Detection  
-✨ Real-time Processing  
+✨ Smart Signal Automation  
+✨ Vehicle Density Detection  
+✨ Real-time Traffic Analysis  
+✨ IEEE Research Publication  
+✨ Hardware + Software Integration  
 
 </td>
 </tr>
 
 <tr>
-<td width="400">
+<td width="420">
 
 ## 🥗 DrishtiPoshan
 
-AI-enabled nutrition and healthcare platform focused on smart dietary analysis.
+AI-enabled nutrition and healthcare platform focused on smart dietary analysis & recommendations.
 
-✨ Health Analytics  
-✨ AI Recommendations  
-✨ User-centric Design  
+✨ AI Health Recommendations  
+✨ Nutrition Tracking  
+✨ User-focused Interface  
+✨ Smart Healthcare Insights  
 
 </td>
 
-<td width="400">
+<td width="420">
 
-## ☁️ More Coming Soon...
+## 💼 Freelance Project Development
 
-Currently building advanced AI-powered systems & scalable applications.
+Building modern full-stack applications & premium UI/UX solutions for clients and startups.
 
-🚀 Stay tuned!
+✨ Full Stack Web Development  
+✨ Responsive UI/UX  
+✨ API Integration  
+✨ Deployment & Optimization  
+
+</td>
+</tr>
+
+<tr>
+<td width="420">
+
+## 🤖 AI/ML Projects
+
+Developing intelligent systems using Machine Learning, NLP & modern AI frameworks.
+
+✨ Predictive Models  
+✨ NLP Applications  
+✨ AI-powered Automation  
+✨ Data-driven Solutions  
+
+</td>
+
+<td width="420">
+
+## ☁️ Cloud & Scalable Systems
+
+Exploring cloud-native architectures, deployment pipelines & scalable backend systems.
+
+✨ AWS Deployment  
+✨ Dockerized Applications  
+✨ Scalable APIs  
+✨ Database Optimization  
 
 </td>
 </tr>
