@@ -14,7 +14,7 @@
 
 <img align="right" height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-🎓 Final Year Computer Engineering Student  
+🎓 Third Year Computer Engineering Student  
 🤖 Passionate about AI/ML & Intelligent Systems  
 ⚡ Building scalable Full Stack Applications  
 📚 IEEE Research Publication Author  
